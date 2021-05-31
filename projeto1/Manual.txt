@@ -1,0 +1,22 @@
+Manual
+
+
+Tecla e - Cria uma Ellipse
+Tecla r - Cria um retângulo
+Tecla p - Cria um pentágono
+Tecla t - Cria um triângulo
+Tecla Delete - Deleta a imagem selecionada
+
+Tecla C - Limpa a tela do Jframe
+
+Seta ^ - Movimenta a imagem pra cima
+Seta v - Movimenta a imagem pra baixo
+Seta <-- Movimenta a imagem pra esquerda
+Seta --> Movimenta a imagem pra direita
+
+Para arrastar a imagem é só clicar em cima e arrastar
+
+A imagem pode sobrepor a outra
+
+
+
